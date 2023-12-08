@@ -6,7 +6,7 @@ time=`date +%Y%m%d`
 versionCode=`git rev-list HEAD --count`
 versionName=$time.$versionCode
 
-echo '开始打包'
+echo '开始打包1'
 echo '----- clean ----'
 flutter clean
 echo '----- pub get ---'
