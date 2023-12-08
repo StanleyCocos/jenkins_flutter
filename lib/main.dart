@@ -96,7 +96,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              '测试3 git hook',
+              '测试 4git hook',
             ),
             Text(
               '测试',
